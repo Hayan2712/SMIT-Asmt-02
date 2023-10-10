@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 12px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+
+body {
+    background-color: black;
+
+}
+
+p {
+    color: white;
+}
+
+table,
+th,
+td {
+    border: white;
+    box-sizing: border-box;
+    color: white;
+    text-align: center;
+    width: 1.5px;
+    border: 1.5px solid;
+    border-collapse: collapse;
+    padding: 15px 35px;
+}
+
+td {
+    font-size: 15px;
+    border: 1.5px solid;
+
+    padding: 15px 50px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-style: normal;
+    margin: 75%;
+}
